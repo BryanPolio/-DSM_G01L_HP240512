@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-mergeDebugResources-34:\\layout\\activity_countries.xml",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\activity_countries.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-mergeDebugResources-34:\\layout\\item_region.xml",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\item_region.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-mergeDebugResources-34:\\layout\\item_city.xml",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\item_city.xml"
+    },
+    {
+        "merged": "com.udb.desafio03.app-mergeDebugResources-34:/layout/activity_detail.xml",
+        "source": "com.udb.desafio03.app-main-37:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-mergeDebugResources-34:\\layout\\activity_detail.xml",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-mergeDebugResources-34:\\layout\\item_country.xml",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\item_country.xml"
+    }
+]

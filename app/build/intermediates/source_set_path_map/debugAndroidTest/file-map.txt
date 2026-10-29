@@ -1,0 +1,4 @@
+com.udb.desafio03.test.app-androidTest-0 G:\VISUAL\Nueva carpeta\Desafio03UDB\app\build\generated\res\resValues\androidTest\debug
+com.udb.desafio03.test.app-mergeDebugAndroidTestResources-1 G:\VISUAL\Nueva carpeta\Desafio03UDB\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.udb.desafio03.test.app-mergeDebugAndroidTestResources-2 G:\VISUAL\Nueva carpeta\Desafio03UDB\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.udb.desafio03.test.app-merged_res-3 G:\VISUAL\Nueva carpeta\Desafio03UDB\app\build\intermediates\merged_res\debugAndroidTest

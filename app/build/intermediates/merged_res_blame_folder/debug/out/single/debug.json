@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-merged_res-35:\\layout_item_city.xml.flat",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\item_city.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-merged_res-35:\\layout_activity_detail.xml.flat",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-merged_res-35:\\layout_item_country.xml.flat",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\item_country.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-merged_res-35:\\layout_activity_countries.xml.flat",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\activity_countries.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-merged_res-35:\\layout_item_region.xml.flat",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\layout\\item_region.xml"
+    },
+    {
+        "merged": "com.udb.desafio03.app-merged_res-35:/layout_activity_detail.xml.flat",
+        "source": "com.udb.desafio03.app-main-37:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-merged_res-35:\\drawable_ic_launcher.png.flat",
+        "source": "G:\\.gradle\\daemon\\8.4\\com.udb.desafio03.app-main-37:\\drawable\\ic_launcher.png"
+    }
+]
